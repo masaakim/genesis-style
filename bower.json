@@ -1,0 +1,23 @@
+{
+  "name": "genesis-style",
+  "version": "0.0.0",
+  "authors": [
+    "Masaaki Morishita <ikasama3.0@gmail.com>"
+  ],
+  "description": "Stylesheet template for genesis",
+  "main": "build/main.css",
+  "keywords": [
+    "genesis",
+    "css",
+    "template",
+    "style"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

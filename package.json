@@ -1,0 +1,32 @@
+{
+  "name": "genesis-style",
+  "version": "0.0.0",
+  "description": "Stylesheet template for genesis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/morishitter/genesis-style.git"
+  },
+  "keywords": [
+    "css",
+    "template",
+    "genesis"
+  ],
+  "author": "Masaaki Morishita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morishitter/genesis-style/issues"
+  },
+  "homepage": "https://github.com/morishitter/genesis-style",
+  "devDependencies": {
+    "coffee-script": "^1.8.0",
+    "grunt": "^0.4.5",
+    "grunt-contrib-connect": "^0.9.0",
+    "grunt-contrib-sass": "^0.8.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-csscomb": "^3.0.0"
+  }
+}
