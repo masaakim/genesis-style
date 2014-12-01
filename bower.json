@@ -13,6 +13,10 @@
     "style"
   ],
   "license": "MIT",
+  "dependencies": {
+    "reset-css": "*",
+    "kitecss": "*"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
